@@ -18,7 +18,7 @@ public class ChessCollection : MonoBehaviour
             chess++;
             Destroy(other.gameObject);
             UpdateChessCount();
-            Debug.Log("Chess Pieces Collected: " + chess.ToString());
+            Debug.Log("Chess Pieces Collected : " + chess.ToString());
         }
     }
 

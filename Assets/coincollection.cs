@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class coincollection : MonoBehaviour
+public class CoinCollection : MonoBehaviour
 {
     
     private int chess = 0;
